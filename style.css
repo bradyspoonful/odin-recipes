@@ -1,0 +1,25 @@
+.titles {
+    background-color: hsl(0, 100%, 50%);
+    color: white;
+    font-size: 32px;
+    text-align: center;
+}
+
+.titles,
+.list-unordered,
+.list-ordered {
+    font-size: 25px;
+}
+
+.titles {
+    font-weight: bold;
+}
+
+.list-unordered {
+    color: green;
+}
+
+.list-ordered {
+    color: blue;
+}
+
